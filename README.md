@@ -25,7 +25,7 @@ A full-stack AI travel assistant using **RAG**, **n8n agents**, and **MongoDB ve
 ### Tech Stack
 
 * **Frontend**: React, TailwindCSS
-* **Backend**: FastAPI
+* **Backend**: API Calls
 * **AI**: LangChain, OpenAI, RAG
 * **Agents**: n8n
 * **Database**: MongoDB + embeddings
