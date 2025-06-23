@@ -46,7 +46,7 @@ docker run -d -p 3000:80 ai-travel-planner
 
 ###  Demo
 
-feel free to reach out to me for a demo
+Feel free to reach out to me for a demo
 
 ---
 
