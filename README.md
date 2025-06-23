@@ -6,7 +6,7 @@ Sure! Here's a **clean and short version of your `README.md`** that still covers
 
 ## AI Travel Planner
 
-A full-stack AI travel assistant using **RAG**, **n8n agents**, and **MongoDB vector store**, built with **React + FastAPI**, and deployed via **Docker**.
+A full-stack AI travel assistant using **RAG**, **n8n agents**, and **MongoDB vector store**, built with **React + Gemini API**, and deployed via **Docker**.
 
 ---
 
