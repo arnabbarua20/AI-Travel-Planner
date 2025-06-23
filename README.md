@@ -34,7 +34,7 @@ A full-stack AI travel assistant using **RAG**, **n8n agents**, and **MongoDB ve
 ---
 
 ### Run Locally
-
+You can download the file, navigate to it using the command line, and start building the images to run the application locally.
 ```bash
 git clone https://github.com/yourusername/ai-travel-planner.git
 cd ai-travel-planner
